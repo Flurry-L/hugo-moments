@@ -5,9 +5,9 @@ paginate = 10
 paginatePath = '.'
 
 [params]
-    title = "Moments Demo"
-    signature = "人生如逆旅，我亦是行人。"
-    cover = "https://cdn.pixabay.com/photo/2018/03/13/22/53/puzzle-3223941_1280.jpg"
+    title = "Moments of Flurry"
+    signature = "不驰于空想，不骛于虚声。"
+    cover = ""
 
-    name = "Default User"
-    avatar = "/img/default_avatar.png"
+    name = "Flurry"
+    avatar = "/img/avatar.jpg"
