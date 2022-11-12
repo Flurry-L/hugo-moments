@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>lwei.me/</loc>
+    <loc>http://lwei.me/</loc>
     <lastmod>2022-11-12T23:21:36+08:00</lastmod>
   </url><url>
-    <loc>lwei.me/moments/hello_world/</loc>
+    <loc>http://lwei.me/moments/hello_world/</loc>
     <lastmod>2022-11-12T23:21:36+08:00</lastmod>
   </url><url>
-    <loc>lwei.me/moments/</loc>
+    <loc>http://lwei.me/moments/</loc>
     <lastmod>2022-11-12T23:21:36+08:00</lastmod>
   </url><url>
-    <loc>lwei.me/categories/</loc>
+    <loc>http://lwei.me/categories/</loc>
   </url><url>
-    <loc>lwei.me/tags/</loc>
+    <loc>http://lwei.me/tags/</loc>
   </url>
 </urlset>
