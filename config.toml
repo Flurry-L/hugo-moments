@@ -5,7 +5,7 @@ paginate = 10
 paginatePath = '.'
 
 [params]
-    title = "Moments of Flurry"
+    title = "flurry's Moments"
     signature = "不驰于空想，不骛于虚声。"
     cover = ""
 
