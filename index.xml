@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://github.com/Flurry-L/hugo-moments/</link>
+    <link>lwei.me/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans</language>
-    <lastBuildDate>Sat, 12 Nov 2022 23:21:36 +0800</lastBuildDate><atom:link href="https://github.com/Flurry-L/hugo-moments/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2022 23:21:36 +0800</lastBuildDate><atom:link href="lwei.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://github.com/Flurry-L/hugo-moments/moments/hello_world/</link>
+      <link>lwei.me/moments/hello_world/</link>
       <pubDate>Sat, 12 Nov 2022 23:21:36 +0800</pubDate>
       
-      <guid>https://github.com/Flurry-L/hugo-moments/moments/hello_world/</guid>
+      <guid>lwei.me/moments/hello_world/</guid>
       <description>hello, world!</description>
     </item>
     
