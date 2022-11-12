@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://lwei.me/</loc>
+    <loc>https://flurry-l.github.io/hugo-moments/</loc>
     <lastmod>2022-11-12T23:21:36+08:00</lastmod>
   </url><url>
-    <loc>http://lwei.me/moments/hello_world/</loc>
+    <loc>https://flurry-l.github.io/hugo-moments/moments/hello_world/</loc>
     <lastmod>2022-11-12T23:21:36+08:00</lastmod>
   </url><url>
-    <loc>http://lwei.me/moments/</loc>
+    <loc>https://flurry-l.github.io/hugo-moments/moments/</loc>
     <lastmod>2022-11-12T23:21:36+08:00</lastmod>
   </url><url>
-    <loc>http://lwei.me/categories/</loc>
+    <loc>https://flurry-l.github.io/hugo-moments/categories/</loc>
   </url><url>
-    <loc>http://lwei.me/tags/</loc>
+    <loc>https://flurry-l.github.io/hugo-moments/tags/</loc>
   </url>
 </urlset>
