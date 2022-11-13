@@ -5,6 +5,16 @@
     <link>https://flurry-l.github.io/hugo-moments/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-Hans</language><atom:link href="https://flurry-l.github.io/hugo-moments/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-Hans</language>
+    <lastBuildDate>Sat, 12 Nov 2022 23:21:36 +0800</lastBuildDate><atom:link href="https://flurry-l.github.io/hugo-moments/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pages</title>
+      <link>https://flurry-l.github.io/hugo-moments/tags/pages/</link>
+      <pubDate>Sat, 12 Nov 2022 23:21:36 +0800</pubDate>
+      
+      <guid>https://flurry-l.github.io/hugo-moments/tags/pages/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
